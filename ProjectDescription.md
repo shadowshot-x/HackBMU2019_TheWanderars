@@ -22,3 +22,13 @@ Anyone having the IPFS hash can see the evidence collected//Information Report, 
 3.	Ganache for the Blockchain uploading Part
 
 <br />
+
+**How to run?**
+<br>
+1. npm install. //This should be done in the main folder
+2. load your ganache
+3. configure a metamask and connect to the ganache to get ethers
+4. the contract is deployed on remix
+5. npm run start
+6. cd mywebsite && nodemon server.js
+7. both the servers have been deployed. visit localhost:3001 for home page.
